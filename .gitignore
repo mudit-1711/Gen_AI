@@ -55,3 +55,9 @@ coverage.xml
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+
+# Ignore all locally downloaded LLMs
+/local llms/
+# Ignore all locally downloaded LLMs
+/LLMS/
